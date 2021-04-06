@@ -6,7 +6,7 @@ ENJOY!
 /*================ GLOBAL COLORS ================*/
 :root {
   --accent-color: 54, 54, 54;
-  --secondary-accent-color: 214, 214, 214;
+  --secondary-accent-color: 232, 232, 232;
   --third-accent-color: 180, 180, 180;
   --fourth-accent-color: 146, 146, 146;
   --light-color: 255, 255, 255;
@@ -232,7 +232,7 @@ toolbar
 }
 
 .urlbar-input-box {
-  color: rgba(var(--third-accent-color), 1) !important;
+  color: rgba(var(--secondary-accent-color), 1) !important;
 }
 
 /*Fixes the funky Reload/Stop button*/
